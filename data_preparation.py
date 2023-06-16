@@ -58,7 +58,7 @@ class DataPreparation:
         
         number_of_sunspots_df = self.number_of_sunspots_df
         
-        return t_train, t_validation, t_test, y_train, y_validation, y_test, train_dataset_df, test_dataset_df, number_of_sunspots_df
+        return t_train, t_validation, t_test, y_train, y_validation, y_test, train_dataset_df, validation_dataset_df, test_dataset_df, number_of_sunspots_df
   
     def show_dataset(self):
         """

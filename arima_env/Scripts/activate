@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\FILES\HETIC\ECOLE-COURS\FONDEMENTS_MATHEMATIQUES_IA\arima_project\arima_env"
+VIRTUAL_ENV="D:\FILES\HETIC\ECOLE-COURS\FONDEMENTS_MATHEMATIQUES_IA\ARIMA\arima_project\arima_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
